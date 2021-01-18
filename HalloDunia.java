@@ -11,6 +11,8 @@ package cobagit;
  */
 public class HalloDunia {
     public static void main (String[]args){
+	System.out.println("Judul");
         System.out.println("Raihan: Aplikasi Java 2021");
+	System.out.println("---***---");
     }
 }
